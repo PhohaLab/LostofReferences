@@ -1,7 +1,4 @@
-# LostofReferences
-List of references for pre-proposal
-
-LIST OF REFERENCES
+#LIST OF REFERENCES
 
 WAVELET-BASED SENSOR FUSION OF WIDELY-DIFFERING TIME-SCALES 
 1.	V. Rajagopalan, A. Ray, “Symbolic time series analysis via wavelet-based partitioning,” Signal Processing 86 (11) (2006) 3309–3320. 
